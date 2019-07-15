@@ -1,0 +1,47 @@
+
+https://blog.csdn.net/weixin_36688519/article/details/53207787
+
+https://blog.csdn.net/xietansheng/article/details/80044644
+
+
+http://shumeipai.nxez.com/intro-faq  树莓派
+
+
+https://blog.csdn.net/qq_27774983/article/details/52858592  树莓派
+
+https://www.cnblogs.com/lidabo/p/5888997.html   linux安装vscode
+
+
+https://blog.csdn.net/weixin_43135899/article/details/84853053  linux安装vscode
+
+https://www.cnblogs.com/tugenhua0707/p/4050072.html  git教程
+
+https://blog.csdn.net/s717597589/article/details/79117112  双系统
+
+https://blog.csdn.net/u010648921/article/details/82628616
+
+https://blog.csdn.net/wmjcode/article/details/80662501 ${}作用
+
+https://blog.csdn.net/echoamor/article/details/83022352 图形化安装opencv
+
+https://oldpan.me/archives/ubuntu-install-opencv-from-source  +1
+
+https://blog.csdn.net/ksws0292756/article/details/79511170 
+
+https://www.cnblogs.com/Shuqing-cxw/p/9195303.html  比较好的opencv配置
+
+https://blog.csdn.net/weixin_43374723/article/details/84064644  dongtai peizhi
+
+https://www.cnblogs.com/weiyinfu/p/10156453.html 有趣的vscode配置
+
+https://blog.csdn.net/dell5200/article/details/85547460  安装opencv扩展包
+
+https://blog.csdn.net/yiyin2439/article/details/80248881  +1
+
+https://code.visualstudio.com/docs/editor/tasks#_task-autodetection 官方vscode说明
+
+http://www.boosj.com/7683440.html  魔方教学
+
+https://blog.csdn.net/zhanghm1995/article/details/80902807  Cmakelists.txt
+
+https://blog.csdn.net/poem_qianmo/article/details/22745559 opencv滤波
